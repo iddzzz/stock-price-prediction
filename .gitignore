@@ -1,0 +1,6 @@
+# Ignore jupyter notebook checkpoints folder
+.ipynb_checkpoints
+
+# Ignore HCLTECH dataset and project walkthrough
+HCLTECH.csv
+stock-price-forecasting.ipynb
