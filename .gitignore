@@ -4,3 +4,6 @@
 # Ignore HCLTECH dataset and project walkthrough
 HCLTECH.csv
 stock-price-forecasting.ipynb
+
+# Draft
+britannia-draft.ipynb
